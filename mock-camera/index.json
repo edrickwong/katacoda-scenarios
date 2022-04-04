@@ -29,6 +29,6 @@
     "uilayout": "terminal-terminal"
   },
   "backend": {
-    "imageid": "kubernetes-cluster"
+    "imageid": "katacoda-scenarios-mock-camera-cluster"
   }
 }
